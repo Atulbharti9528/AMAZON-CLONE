@@ -1,4 +1,4 @@
-AMAZON-CLONE WEBSIDE : https://atulbharti9528.github.io/
+AMAZON-CLONE WEBSIDE : https://atulbharti9528.github.io/AMAZON-CLONE/
 
 using the language to created this webside
 1.html5
