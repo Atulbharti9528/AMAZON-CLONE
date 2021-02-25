@@ -1,4 +1,5 @@
-link of webside : https://atulbharti9528.github.io/
+AMAZON-CLONE WEBSIDE : https://atulbharti9528.github.io/
+
 using the language to created this webside
 1.html5
 2.css3
